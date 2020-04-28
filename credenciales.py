@@ -1,0 +1,5 @@
+usuario='root'
+direccion='localhost'
+puerta='3306'
+clave='181197'
+basedatos='usuarios'
